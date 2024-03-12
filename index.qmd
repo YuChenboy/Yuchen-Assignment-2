@@ -56,7 +56,7 @@ My journey is driven by a passion for uncovering insights from data and a commit
 ### Education
 
 | SCHOOL                                            | MAJOR                                | DEGREE      |
-|---------------------------------|------------------------|----------------|
+|---------------------------------------------------|--------------------------------------|-------------|
 | **Hebei University of Environmental Engineering** | Internet of things                   | Engineering |
 | **University of Illinois Chicago**                | Master of Science in Civic Analytics | Master      |
 
