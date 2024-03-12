@@ -23,7 +23,7 @@ about:
       href: https://www.linkedin.com/in/3b98132b1/
     - icon: GitHub
       text: GitHub
-      href: https://yuchenboy.github.io/Yuchen-Song/
+      href: https://github.com/YuChenboy/Yuchen-Assignment-2
 ---
 
 ## Introduce
