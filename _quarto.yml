@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs 
+
+website:
+  title: "Yuchen Assignment 2"
+  navbar:
+    left:
+      - href: index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
